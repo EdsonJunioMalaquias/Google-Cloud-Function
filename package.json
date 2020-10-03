@@ -1,0 +1,23 @@
+{
+  "name": "special-topics-iii-google-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdsonJunioMalaquias/Google-Cloud-Function.git"
+  },
+  "keywords": [
+    "google-cloud-functions",
+    "datastore/firestore"
+  ],
+  "author": "Edson Junio Malaquias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdsonJunioMalaquias/Google-Cloud-Function/issues"
+  },
+  "homepage": "https://github.com/EdsonJunioMalaquias/Google-Cloud-Function#readme"
+}
